@@ -20,7 +20,7 @@ public class ClientRequestModel extends BaseModel {
 	@JsonProperty("data")
 	private Object data;
 
-	public ClientRequestModel(String nickName, Long timestamp) {
+	public ClientRequestModel(String nickName) {
 		this.nickName = nickName;
 		this.uid = UUID.randomUUID().toString();
 	}

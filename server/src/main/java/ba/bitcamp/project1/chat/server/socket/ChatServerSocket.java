@@ -15,7 +15,7 @@ import ba.bitcamp.project1.chat.common.json.JSONMapper;
 import ba.bitcamp.project1.chat.common.model.ClientRequestModel;
 import ba.bitcamp.project1.chat.common.model.MessageModel;
 import ba.bitcamp.project1.chat.common.model.meta.UserMetaModel;
-import ba.bitcamp.project1.chat.server.thread.pool.ChatThreadExecutor;
+import ba.bitcamp.project1.chat.common.thread.pool.ChatThreadExecutor;
 
 public class ChatServerSocket {
 
@@ -74,7 +74,7 @@ public class ChatServerSocket {
 
 	public void handleSocket(Socket tSocket) {
 		this.chatThreadExecutor.getExecutorService().execute(
-				new SocketThread(tSocket, this));
+				new ServerSocketThread(tSocket, this));
 	}
 
 	public void handleData(Object dataModel, Socket socket, PrintWriter out, BufferedReader in) throws IOException {
