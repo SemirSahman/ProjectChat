@@ -1,0 +1,77 @@
+package ba.bitcamp.project1.server.servergui.frames;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+
+import ba.bitcamp.project1.server.servergui.models.ServerModelInfo;
+
+public class ServerMainFrame extends JFrame { 	
+
+	private static final long serialVersionUID = 1L;
+	
+	private JMenuBar mainMenuBar;
+	
+	private JMenu serverMenu;
+	private JMenuItem serverStartItem;
+	private JMenuItem serverStopItem;
+	private JMenuItem serverSettingsItem;
+	private JMenuItem serverExitItem;
+	
+	private JMenu helpMenu;
+	private JMenuItem helpAboutMenu;
+	
+	private ServerModelInfo serverInfo;
+	
+	public ServerMainFrame() {
+		super("Server chat v1.0 by Enver and Semir");
+		this.serverInfo = new ServerModelInfo();
+		
+		initUI();
+	}
+	
+	private void initUI() {
+		setSize(500, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		this.mainMenuBar = new JMenuBar();
+		this.serverMenu = new JMenu("Server");
+		
+		this.serverStartItem = new JMenuItem("Start");
+		this.serverStopItem = new JMenuItem("Stop");
+		this.serverSettingsItem = new JMenuItem("Settings");
+		this.serverExitItem = new JMenuItem("Exit");
+		
+		this.serverExitItem.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				System.exit(0);
+			}
+		});
+		
+		
+		this.serverSettingsItem.addActionListener(new ActionListener() {
+			
+			public void actionPerformed(ActionEvent e) {
+				new DialogFrame();
+			}
+		});
+		
+		this.serverMenu.add(this.serverStartItem);
+		this.serverMenu.add(this.serverStopItem);
+		this.serverMenu.add(this.serverSettingsItem);
+		this.serverMenu.add(this.serverExitItem);
+		
+		this.mainMenuBar.add(this.serverMenu);
+		setJMenuBar(this.mainMenuBar);
+		
+	}
+	
+	
+
+}

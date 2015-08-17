@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+/home/dincaus/Desktop/Enver/.metadata/.plugins/org.eclipse.jdt.core
+4038543353.index
+1328996958.index
+3525260285.index
+288315386.index

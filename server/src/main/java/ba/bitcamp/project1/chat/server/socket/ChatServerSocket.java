@@ -3,8 +3,10 @@ package ba.bitcamp.project1.chat.server.socket;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -60,6 +62,20 @@ public class ChatServerSocket {
 		return this.serverSocket;
 	}
 
+	public ServerSocket getServerSocket(String hostname)
+			throws UnknownHostException, IOException {
+
+		if (this.serverSocket == null)
+			this.serverSocket = new ServerSocket(getPort(), 50,
+					InetAddress.getByName(hostname));
+
+		return this.serverSocket;
+	}
+
+	public void setServerSocket(ServerSocket serverSocket) {
+		this.serverSocket = serverSocket;
+	}
+
 	public Map<String, SocketModel> getMapUsers() {
 		return mapUsers;
 	}
@@ -77,26 +93,31 @@ public class ChatServerSocket {
 				new ServerSocketThread(tSocket, this));
 	}
 
-	public void handleData(Object dataModel, Socket socket, PrintWriter out, BufferedReader in) throws IOException {
+	public void handleData(Object dataModel, Socket socket, PrintWriter out,
+			BufferedReader in) throws IOException {
 		boolean writePermission = true;
-		
+
 		if (dataModel instanceof ClientRequestModel) {
 			ClientRequestModel initConnModel = (ClientRequestModel) dataModel;
 			SocketModel uSocket = mapUsers.get(initConnModel.getUid());
-			
+
 			if (initConnModel.getCode() == ProtocolEnum.INIT_CONNECTION) {
 
 				if (uSocket == null) {
-					mapUsers.put(initConnModel.getUid(), new SocketModel(socket, initConnModel.getNickName(), initConnModel.getUid()));
+					mapUsers.put(
+							initConnModel.getUid(),
+							new SocketModel(socket,
+									initConnModel.getNickName(), initConnModel
+											.getUid()));
 					initConnModel.setCode(ProtocolEnum.SUCCESS);
 
 				} else {
 					initConnModel.setCode(ProtocolEnum.ALREADY_CONNECTED);
 				}
 
-			} else if(initConnModel.getCode() == ProtocolEnum.CLOSE_CONNECTION) {
-				
-				if(uSocket != null) {
+			} else if (initConnModel.getCode() == ProtocolEnum.CLOSE_CONNECTION) {
+
+				if (uSocket != null) {
 					out.close();
 					in.close();
 					uSocket.getuSocket().close();
@@ -105,54 +126,62 @@ public class ChatServerSocket {
 				} else {
 					initConnModel.setCode(ProtocolEnum.FAIL);
 				}
-				
-			} else if(initConnModel.getCode() == ProtocolEnum.GET_CONNECTED_USERS) {
-				
+
+			} else if (initConnModel.getCode() == ProtocolEnum.GET_CONNECTED_USERS) {
+
 				List<UserMetaModel> userList = new ArrayList<UserMetaModel>();
-				
-				for(Map.Entry<String, SocketModel> userEntry: mapUsers.entrySet()) {
-					if(!userEntry.getKey().equals(initConnModel.getUid()))
-						userList.add(new UserMetaModel(userEntry.getValue().getNickName(), userEntry.getValue().getUid()));
+
+				for (Map.Entry<String, SocketModel> userEntry : mapUsers
+						.entrySet()) {
+					if (!userEntry.getKey().equals(initConnModel.getUid()))
+						userList.add(new UserMetaModel(userEntry.getValue()
+								.getNickName(), userEntry.getValue().getUid()));
 				}
-			
+
 				initConnModel.setData(userList);
 			} else {
 				initConnModel.setCode(ProtocolEnum.FAIL);
 			}
 
 			// prepared data send to client
-			if(writePermission) {
-				out.println(JSONMapper.getObjectMapper().writeValueAsString(initConnModel));
+			if (writePermission) {
+				out.println(JSONMapper.getObjectMapper().writeValueAsString(
+						initConnModel));
 				out.flush();
 			}
-		} else if(dataModel instanceof MessageModel) {
+		} else if (dataModel instanceof MessageModel) {
 			MessageModel messageModel = (MessageModel) dataModel;
-			
-			//TODO: Implement some additional checks for object inside message model
+
+			// TODO: Implement some additional checks for object inside message
+			// model
 			SocketModel uSocket = mapUsers.get(messageModel.getFrom().getUid());
-			
-			if(uSocket != null) {
-				SocketModel tSocket = mapUsers.get(messageModel.getTo().getUid());
-				
+
+			if (uSocket != null) {
+				SocketModel tSocket = mapUsers.get(messageModel.getTo()
+						.getUid());
+
 				if (tSocket != null) {
 
 					messageModel.setCode(ProtocolEnum.SUCCESS);
-					PrintWriter pww = new PrintWriter(tSocket.getuSocket().getOutputStream());
-					pww.println(JSONMapper.getObjectMapper().writeValueAsString(messageModel));
+					PrintWriter pww = new PrintWriter(tSocket.getuSocket()
+							.getOutputStream());
+					pww.println(JSONMapper.getObjectMapper()
+							.writeValueAsString(messageModel));
 					pww.flush();
 
 				}
-				
+
 			} else {
 				messageModel.setCode(ProtocolEnum.FAIL);
 			}
-			
-			if(writePermission) {
-				out.println(JSONMapper.getObjectMapper().writeValueAsString(messageModel));
+
+			if (writePermission) {
+				out.println(JSONMapper.getObjectMapper().writeValueAsString(
+						messageModel));
 				out.flush();
 			}
 		}
-		
+
 	}// end method
 
 }

@@ -1,0 +1,925 @@
+2015-08-17 18:52:52,521 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:client:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/client/pom.xml.
+2015-08-17 18:52:52,694 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2015-08-17 18:52:52,694 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2015-08-17 18:52:52,753 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-08-17 18:52:53,702 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:client:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/client/pom.xml.
+2015-08-17 18:52:54,067 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:52:54,067 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/main/resources
+2015-08-17 18:52:54,069 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:52:54,069 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/test/resources
+2015-08-17 18:52:55,154 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:52:55,154 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/main/resources
+2015-08-17 18:52:55,156 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:52:55,156 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/test/resources
+2015-08-17 18:53:03,874 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:common:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/common/pom.xml.
+2015-08-17 18:53:03,898 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:client:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/client/pom.xml.
+2015-08-17 18:53:03,951 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2015-08-17 18:53:03,952 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2015-08-17 18:53:03,969 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-08-17 18:53:04,282 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:04,282 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/main/resources
+2015-08-17 18:53:04,283 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:04,284 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/test/resources
+2015-08-17 18:53:04,366 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:04,366 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/main/resources
+2015-08-17 18:53:04,367 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:04,368 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/test/resources
+2015-08-17 18:53:04,702 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:common:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/common/pom.xml.
+2015-08-17 18:53:05,399 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:05,399 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/main/resources
+2015-08-17 18:53:05,400 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:05,400 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/test/resources
+2015-08-17 18:53:09,642 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:server:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/server/pom.xml.
+2015-08-17 18:53:09,689 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2015-08-17 18:53:09,689 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2015-08-17 18:53:09,708 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-08-17 18:53:09,984 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:09,984 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 18:53:09,985 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:09,985 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 18:53:10,642 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:server:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/server/pom.xml.
+2015-08-17 18:53:11,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:11,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 18:53:11,106 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:11,106 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 18:53:29,200 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-17 18:53:29,285 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:client:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/client/pom.xml.
+2015-08-17 18:53:29,312 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:common:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/common/pom.xml.
+2015-08-17 18:53:29,327 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:server:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/server/pom.xml.
+2015-08-17 18:53:29,407 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2015-08-17 18:53:29,407 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2015-08-17 18:53:29,428 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2015-08-17 18:53:29,428 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2015-08-17 18:53:29,447 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2015-08-17 18:53:29,447 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2015-08-17 18:53:29,516 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-17 18:53:29,676 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:29,676 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/main/resources
+2015-08-17 18:53:29,678 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:29,678 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/test/resources
+2015-08-17 18:53:29,722 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:29,722 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/main/resources
+2015-08-17 18:53:29,723 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:29,723 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/test/resources
+2015-08-17 18:53:29,778 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:29,778 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 18:53:29,779 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:29,779 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 18:53:32,852 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:32,852 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/main/resources
+2015-08-17 18:53:32,853 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:32,853 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/test/resources
+2015-08-17 18:53:32,858 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:32,858 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/main/resources
+2015-08-17 18:53:32,859 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:32,859 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/test/resources
+2015-08-17 18:53:32,863 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:32,864 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 18:53:32,864 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:53:32,864 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 18:54:42,104 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/dincaus/Desktop/Enver/ServerGUI/gui/pom.xml
+2015-08-17 18:54:42,151 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:gui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/gui/pom.xml.
+2015-08-17 18:54:42,200 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gui/src/main/java
+2015-08-17 18:54:42,201 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gui/src/test/java
+2015-08-17 18:54:42,221 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-08-17 18:54:42,467 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:gui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/gui/pom.xml.
+2015-08-17 18:54:42,486 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:54:42,486 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/gui/src/main/resources
+2015-08-17 18:54:42,487 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:54:42,487 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/gui/src/test/resources
+2015-08-17 18:54:43,296 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:gui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/gui/pom.xml.
+2015-08-17 18:54:43,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:54:43,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/gui/src/main/resources
+2015-08-17 18:54:43,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:54:43,550 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/gui/src/test/resources
+2015-08-17 18:55:54,632 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml
+2015-08-17 18:55:54,662 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:servergui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml.
+2015-08-17 18:55:54,693 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servergui/src/main/java
+2015-08-17 18:55:54,694 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servergui/src/test/java
+2015-08-17 18:55:54,712 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-08-17 18:55:54,901 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:servergui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml.
+2015-08-17 18:55:54,920 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:55:54,920 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:55:54,922 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:55:54,922 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:55:55,772 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:servergui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml.
+2015-08-17 18:55:55,952 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:55:55,952 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:55:55,953 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:55:55,953 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:56:35,868 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:servergui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml.
+2015-08-17 18:56:35,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:56:35,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:56:35,895 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:56:35,895 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:56:37,064 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:56:37,064 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:56:37,065 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:56:37,065 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:57:04,333 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:servergui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml.
+2015-08-17 18:57:04,361 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:04,361 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:57:04,362 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:04,362 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:57:05,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:05,598 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:57:05,599 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:05,599 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:57:12,356 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-17 18:57:12,431 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.server:servergui:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/ServerGUI/servergui/pom.xml.
+2015-08-17 18:57:12,457 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:client:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/client/pom.xml.
+2015-08-17 18:57:12,474 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:common:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/common/pom.xml.
+2015-08-17 18:57:12,487 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:server:0.0.1-SNAPSHOT @ /home/dincaus/Desktop/Enver/server/pom.xml.
+2015-08-17 18:57:12,543 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servergui/src/main/java
+2015-08-17 18:57:12,543 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servergui/src/test/java
+2015-08-17 18:57:12,563 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2015-08-17 18:57:12,563 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2015-08-17 18:57:12,583 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2015-08-17 18:57:12,583 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2015-08-17 18:57:12,619 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2015-08-17 18:57:12,620 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2015-08-17 18:57:12,702 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-17 18:57:12,870 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:12,870 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/main/resources
+2015-08-17 18:57:12,871 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:12,871 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/common/src/test/resources
+2015-08-17 18:57:12,919 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:12,919 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/main/resources
+2015-08-17 18:57:12,920 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:12,920 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/client/src/test/resources
+2015-08-17 18:57:12,974 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:12,974 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 18:57:12,975 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:12,975 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 18:57:13,001 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:13,001 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:57:13,002 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:57:13,002 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:59:03,068 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:03,068 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:59:03,069 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:03,069 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:59:11,028 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:11,028 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:59:11,030 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:11,031 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:59:18,679 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:18,679 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:59:18,680 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:18,680 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:59:24,325 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:24,326 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:59:24,326 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:24,326 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 18:59:27,208 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:27,208 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 18:59:27,209 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 18:59:27,209 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:00:15,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:00:15,336 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:00:15,337 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:00:15,337 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:00:35,265 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:00:35,266 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:00:35,266 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:00:35,266 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:00:50,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:00:50,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:00:50,170 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:00:50,170 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:01:05,746 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:01:05,746 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:01:05,747 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:01:05,747 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:01:14,576 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:01:14,577 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:01:14,578 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:01:14,578 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:03:38,331 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:03:38,331 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:03:38,332 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:03:38,332 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:03:55,165 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:03:55,165 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:03:55,166 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:03:55,166 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:04:20,632 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:04:20,632 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:04:20,633 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:04:20,633 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:06:09,607 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:06:09,607 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:06:09,608 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:06:09,608 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:06:26,447 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:06:26,447 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:06:26,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:06:26,448 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:06:46,730 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:06:46,730 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:06:46,731 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:06:46,731 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:08:01,494 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:08:01,494 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:08:01,495 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:08:01,496 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:08:16,745 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:08:16,746 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:08:16,746 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:08:16,746 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:08:48,913 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:08:48,913 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:08:48,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:08:48,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:09:08,308 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:09:08,308 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:09:08,309 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:09:08,309 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:18:04,783 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:18:04,783 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:18:04,784 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:18:04,784 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:27:16,713 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:27:16,713 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:27:16,715 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:27:16,715 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:28:34,634 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:28:34,634 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:28:34,635 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:28:34,635 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:28:51,432 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:28:51,432 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:28:51,432 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:28:51,433 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:35:59,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:35:59,808 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:35:59,816 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:35:59,816 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:36:15,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:36:15,221 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:36:15,223 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:36:15,223 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:41:20,078 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:41:20,078 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:41:20,079 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:41:20,079 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:45:05,011 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:45:05,011 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:45:05,012 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:45:05,012 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:45:51,012 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:45:51,012 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:45:51,013 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:45:51,013 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:46:00,055 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:00,055 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:46:00,056 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:00,056 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:46:10,330 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:10,330 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:46:10,331 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:10,331 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:46:18,157 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:18,157 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:46:18,157 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:18,157 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:46:35,401 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:35,401 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:46:35,402 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:35,402 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:46:52,632 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:52,633 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:46:52,633 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:52,633 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:46:57,117 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:57,117 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:46:57,118 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:46:57,118 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:47:23,417 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:23,417 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:47:23,418 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:23,418 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:47:32,774 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:32,774 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:47:32,775 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:32,775 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:47:42,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:42,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:47:42,699 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:42,699 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:47:50,289 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:50,289 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:47:50,290 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:47:50,290 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:48:07,539 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:48:07,539 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:48:07,540 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:48:07,540 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:48:20,079 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:48:20,080 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:48:20,080 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:48:20,080 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:48:36,665 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:48:36,665 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:48:36,666 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:48:36,666 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:49:04,062 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:49:04,062 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:49:04,062 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:49:04,062 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:49:10,778 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:49:10,778 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:49:10,779 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:49:10,779 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:50:56,136 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:50:56,137 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:50:56,137 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:50:56,137 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:05,721 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:05,721 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:05,722 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:05,722 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:11,743 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:11,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:11,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:11,744 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:31,051 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:31,052 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:31,052 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:31,053 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:46,858 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:46,858 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:46,859 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:46,859 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:56,100 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:56,100 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:56,100 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:56,100 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:57,167 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:57,167 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:57,168 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:57,168 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:51:58,224 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:58,224 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:51:58,225 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:51:58,225 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:52:06,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:52:06,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:52:06,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:52:06,261 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:52:16,710 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:52:16,710 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:52:16,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:52:16,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:52:30,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:52:30,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:52:30,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:52:30,734 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:53:11,160 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:11,160 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:53:11,161 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:11,161 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:53:17,286 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:17,286 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:53:17,287 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:17,287 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:53:24,229 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:24,229 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:53:24,230 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:24,231 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:53:30,919 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:30,920 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:53:30,920 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:30,920 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:53:42,225 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:42,225 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:53:42,226 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:42,226 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:53:59,131 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:59,132 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:53:59,132 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:53:59,132 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:54:06,018 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:06,018 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:54:06,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:06,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:54:21,278 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:21,278 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:54:21,279 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:21,279 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:54:25,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:25,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:54:25,941 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:25,942 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:54:40,251 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:40,251 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:54:40,252 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:54:40,252 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:55:08,209 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:08,210 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:55:08,210 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:08,210 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:55:13,410 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:13,411 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:55:13,411 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:13,411 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:55:18,335 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:18,335 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:55:18,336 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:18,336 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:55:27,701 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:27,702 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:55:27,702 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:55:27,702 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:58:20,271 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:58:20,271 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:58:20,272 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:58:20,272 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:58:39,981 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:58:39,981 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:58:39,982 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:58:39,982 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:58:59,374 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:58:59,374 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:58:59,375 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:58:59,375 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:59:07,783 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:59:07,783 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:59:07,784 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:59:07,784 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:59:20,219 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:59:20,219 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:59:20,219 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:59:20,219 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 19:59:53,370 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:59:53,370 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 19:59:53,370 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 19:59:53,370 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:00:07,995 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:07,995 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:00:07,996 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:07,996 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:00:21,143 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:21,143 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:00:21,144 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:21,144 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:00:50,928 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:50,928 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:00:50,929 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:50,929 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:00:53,618 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:53,618 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:00:53,619 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:00:53,619 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:01:09,241 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:09,241 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:01:09,242 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:09,242 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:01:15,072 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:15,072 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:01:15,073 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:15,073 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:01:35,117 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:35,117 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:01:35,118 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:35,118 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:01:43,545 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:43,545 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:01:43,545 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:01:43,545 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:02:00,758 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:00,758 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:02:00,759 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:00,759 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:02:17,629 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:17,629 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:02:17,630 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:17,630 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:02:31,361 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:31,361 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:02:31,362 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:31,362 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:02:38,574 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:38,574 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:02:38,575 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:38,575 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:02:48,876 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:48,876 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:02:48,877 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:48,877 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:02:57,151 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:57,151 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:02:57,152 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:02:57,152 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:04:36,347 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:04:36,347 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:04:36,349 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:04:36,350 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:04:49,194 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:04:49,194 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:04:49,195 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:04:49,195 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:05:00,319 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:05:00,319 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:05:00,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:05:00,320 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:05:19,192 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:05:19,192 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:05:19,193 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:05:19,193 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:05:29,824 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:05:29,824 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:05:29,825 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:05:29,825 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:06:02,200 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:06:02,200 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:06:02,201 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:06:02,201 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:07:41,032 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:07:41,032 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:07:41,033 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:07:41,033 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:07:46,179 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:07:46,179 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:07:46,180 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:07:46,180 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:08:13,834 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:08:13,834 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:08:13,835 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:08:13,835 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:08:30,771 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:08:30,771 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:08:30,772 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:08:30,772 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:09:07,365 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:09:07,366 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:09:07,366 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:09:07,366 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:12:58,834 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:12:58,834 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:12:58,835 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:12:58,835 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:13:06,443 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:13:06,443 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:13:06,444 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:13:06,444 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:13:08,487 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:13:08,487 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:13:08,488 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:13:08,488 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:13:58,088 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:13:58,088 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:13:58,089 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:13:58,089 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:14:28,732 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:14:28,732 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:14:28,733 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:14:28,733 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:15:13,909 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:15:13,909 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:15:13,910 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:15:13,910 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:15:16,970 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:15:16,970 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:15:16,970 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:15:16,970 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:15:29,936 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:15:29,936 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:15:29,937 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:15:29,937 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:16:35,615 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:16:35,615 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:16:35,616 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:16:35,617 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:16:42,166 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:16:42,166 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:16:42,167 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:16:42,167 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:17:17,114 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:17:17,114 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:17:17,115 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:17:17,115 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:18:04,574 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:18:04,574 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:18:04,575 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:18:04,575 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:18:17,650 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:18:17,650 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:18:17,651 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:18:17,651 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:18:46,770 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:18:46,770 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:18:46,771 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:18:46,771 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:19:29,525 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:19:29,525 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 20:19:29,526 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:19:29,526 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 20:20:09,430 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:20:09,430 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:20:09,431 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:20:09,431 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:20:15,977 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:20:15,978 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:20:15,978 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:20:15,978 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:21:07,039 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:21:07,039 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:21:07,039 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:21:07,039 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:21:19,034 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:21:19,034 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:21:19,035 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:21:19,035 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:21:27,482 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:21:27,482 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:21:27,483 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:21:27,483 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:22:25,533 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:22:25,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 20:22:25,534 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:22:25,535 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 20:22:29,280 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:22:29,280 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:22:29,281 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:22:29,281 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:23:33,127 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:23:33,128 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 20:23:33,128 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:23:33,128 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 20:23:36,369 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:23:36,370 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 20:23:36,370 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:23:36,370 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 20:24:04,469 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:24:04,469 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:24:04,470 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:24:04,470 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:26:09,671 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:26:09,671 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:26:09,672 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:26:09,672 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:26:19,292 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:26:19,292 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:26:19,293 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:26:19,293 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:27:34,452 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:27:34,452 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:27:34,453 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:27:34,453 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:27:42,317 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:27:42,317 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:27:42,318 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:27:42,318 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:29:29,447 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:29:29,447 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:29:29,447 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:29:29,447 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:30:09,494 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:30:09,494 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:30:09,496 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:30:09,497 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:30:36,725 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:30:36,725 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:30:36,726 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:30:36,726 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:31:58,680 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:31:58,680 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:31:58,681 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:31:58,681 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:32:28,744 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:32:28,745 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:32:28,746 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:32:28,747 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:32:58,762 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:32:58,762 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:32:58,763 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:32:58,763 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:34:01,447 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:34:01,447 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:34:01,448 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:34:01,448 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:34:05,840 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:34:05,840 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:34:05,841 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:34:05,841 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:35:21,673 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:21,673 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:35:21,674 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:21,674 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:35:27,715 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:27,715 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:35:27,716 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:27,716 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:35:36,247 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:36,248 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:35:36,249 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:36,249 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:35:40,513 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:40,513 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:35:40,514 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:35:40,514 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:36:03,112 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:36:03,112 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:36:03,113 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:36:03,113 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:36:36,467 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:36:36,467 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:36:36,468 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:36:36,468 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:37:12,012 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:37:12,012 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:37:12,013 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:37:12,013 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:37:34,407 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:37:34,407 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:37:34,408 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:37:34,408 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:38:04,112 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:04,112 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:38:04,113 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:04,113 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:38:07,643 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:07,643 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:38:07,645 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:07,646 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:38:09,671 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:09,671 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:38:09,672 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:09,672 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:38:49,335 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:49,335 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:38:49,336 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:38:49,336 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:42:39,136 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:42:39,136 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:42:39,137 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:42:39,137 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:42:54,373 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:42:54,373 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:42:54,374 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:42:54,374 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:43:30,088 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:43:30,088 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:43:30,088 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:43:30,088 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:44:24,879 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:24,880 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:44:24,880 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:24,880 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:44:28,820 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:28,820 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:44:28,821 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:28,821 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:44:46,929 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:46,929 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:44:46,930 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:46,930 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:44:50,542 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:50,542 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:44:50,543 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:44:50,543 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:45:41,033 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:45:41,033 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:45:41,034 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:45:41,034 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:45:43,979 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:45:43,979 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:45:43,980 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:45:43,980 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:47:09,676 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:47:09,676 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:47:09,677 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:47:09,677 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:48:08,721 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:48:08,721 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:48:08,721 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:48:08,721 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:48:55,867 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:48:55,867 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:48:55,868 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:48:55,868 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:49:06,634 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:49:06,634 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:49:06,635 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:49:06,635 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:51:17,434 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:51:17,434 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:51:17,435 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:51:17,435 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:51:33,291 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:51:33,291 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:51:33,292 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:51:33,293 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:54:02,271 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:54:02,272 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:54:02,272 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:54:02,272 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:54:20,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:54:20,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:54:20,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:54:20,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 20:55:23,788 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:55:23,788 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 20:55:23,788 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 20:55:23,789 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:00:31,988 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:00:31,988 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:00:31,988 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:00:31,988 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:02:28,751 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:02:28,751 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:02:28,752 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:02:28,752 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:02:38,178 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:02:38,178 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:02:38,179 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:02:38,179 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:02:54,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:02:54,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:02:54,844 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:02:54,844 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:03:18,834 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:03:18,834 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:03:18,835 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:03:18,835 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:03:28,952 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:03:28,952 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:03:28,953 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:03:28,953 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:04:36,382 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:04:36,382 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:04:36,383 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:04:36,383 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:05:05,121 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:05:05,121 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/main/resources
+2015-08-17 21:05:05,122 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:05:05,122 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/server/src/test/resources
+2015-08-17 21:05:10,078 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:05:10,078 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:05:10,079 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:05:10,079 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:06:13,143 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:06:13,143 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:06:13,144 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:06:13,144 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:06:48,849 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:06:48,849 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:06:48,850 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:06:48,850 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:07:18,936 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:07:18,936 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:07:18,937 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:07:18,937 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:07:55,667 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:07:55,667 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:07:55,668 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:07:55,668 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:10:12,087 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:12,087 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:10:12,089 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:12,089 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:10:44,639 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:44,640 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:10:44,640 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:44,640 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:10:49,997 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:49,997 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:10:49,998 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:49,998 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:10:53,675 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:53,675 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:10:53,676 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:53,676 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:10:56,567 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:56,567 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:10:56,568 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:56,568 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:10:58,083 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:58,083 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:10:58,084 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:10:58,084 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:11:05,114 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:11:05,114 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:11:05,115 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:11:05,115 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:12:48,758 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:12:48,758 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:12:48,759 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:12:48,759 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:13:12,762 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:13:12,762 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:13:12,763 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:13:12,763 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:13:19,290 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:13:19,290 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:13:19,291 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:13:19,291 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:14:27,497 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:14:27,497 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:14:27,498 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:14:27,498 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources
+2015-08-17 21:14:29,003 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:14:29,003 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/main/resources
+2015-08-17 21:14:29,004 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-17 21:14:29,004 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dincaus/Desktop/Enver/ServerGUI/servergui/src/test/resources

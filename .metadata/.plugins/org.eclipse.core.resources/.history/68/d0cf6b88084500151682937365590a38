@@ -1,0 +1,61 @@
+package ba.bitcamp.project1.server.servergui.frames;
+
+import java.awt.GridLayout;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
+public class DialogFrame  extends JFrame{
+	
+
+			private static final long serialVersionUID = 1L;
+			
+			private JLabel ipAddress = new JLabel("IP address:");
+			private JLabel port = new JLabel("Port:");
+			
+			private JTextField ipAddressField = new JTextField("");
+			private JTextField portField = new JTextField("");
+			
+			private JButton ok = new JButton("Ok");
+			private JButton cancel = new JButton("Cancel");
+			
+			public DialogFrame(){
+				
+				setLayout(new GridLayout(0,0));
+				
+				ipAddress.setSize(40, 20);
+				add(ipAddress);
+				ipAddressField.setSize(100, 50);
+				add(ipAddressField);
+				
+				add(port);
+	
+				ipAddress.add(ipAddressField);
+				ipAddress.add(portField);
+							
+				port.add(ok);
+				port.add(cancel);
+				
+				
+			
+				setTitle("Start setings");
+				setSize(400, 300);
+				setLocationRelativeTo(null);
+				setDefaultCloseOperation(EXIT_ON_CLOSE);
+				setVisible(true);
+			
+			}
+			
+			
+		
+	
+	
+	
+	
+	public static void main(String[] args) {
+		new DialogFrame();
+	}
+
+}

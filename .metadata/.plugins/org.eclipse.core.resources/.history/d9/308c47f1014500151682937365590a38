@@ -1,0 +1,38 @@
+package ba.bitcamp.project1.server.servergui.frames;
+
+import javax.swing.JFrame;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+
+public class ServerMainFrame extends JFrame { 	
+
+	private static final long serialVersionUID = 1L;
+	
+	private JMenuBar mainMenuBar;
+	
+	private JMenu serverMenu;
+	private JMenuItem serverStartItem;
+	private JMenutItem serverStopItem;
+	private JMenutItem serverSettingsItem;
+	private JMenuItem serverExitItem;
+	
+	private JMenu helpMenu;
+	
+	
+	public ServerMainFrame() {
+		super("Server chat v1.0 by Enver and Semir");
+	}
+	
+	private void initUI() {
+		setSize(500, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		this.mainMenuBar = new JMenuBar();
+		this.serverMenu = new JMenu("Server");
+		
+		
+	}
+
+}

@@ -1,0 +1,142 @@
+package ba.bitcamp.project1.server.servergui.frames;
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.net.ServerSocket;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+import javax.swing.JFrame;
+import javax.swing.JMenu;
+import javax.swing.JMenuBar;
+import javax.swing.JMenuItem;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+
+import ba.bitcamp.project1.chat.server.socket.ChatServerSocket;
+import ba.bitcamp.project1.server.servergui.models.ServerModelInfo;
+
+public class ServerMainFrame extends JFrame implements ActionListener {
+
+	private static final long serialVersionUID = 1L;
+
+	private JMenuBar mainMenuBar;
+
+	private JMenu serverMenu;
+	private JMenuItem serverStartItem;
+	private JMenuItem serverStopItem;
+	private JMenuItem serverSettingsItem;
+	private JMenuItem serverExitItem;
+
+	private JMenu helpMenu;
+	private JMenuItem helpAboutMenu;
+
+	private JTextArea logBox;
+
+	private ServerModelInfo serverInfo;
+
+	private ChatServerSocket serverChatSocket;
+	private ServerSocket serverSocket;
+
+	private ExecutorService executorService = Executors.newFixedThreadPool(2);
+	private boolean serverStarted = false;
+
+	public ServerMainFrame() {
+		super("Server chat v1.0 by Enver and Semir");
+		this.serverInfo = new ServerModelInfo();
+
+		initUI();
+	}
+
+	private void initUI() {
+		setSize(500, 400);
+		setLocationRelativeTo(null);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+
+		this.logBox = new JTextArea();
+		this.logBox.setEditable(false);
+
+		this.mainMenuBar = new JMenuBar();
+		this.serverMenu = new JMenu("Server");
+
+		this.serverStartItem = new JMenuItem("Start");
+		this.serverStopItem = new JMenuItem("Stop");
+		this.serverSettingsItem = new JMenuItem("Settings");
+		this.serverExitItem = new JMenuItem("Exit");
+
+		this.serverExitItem.addActionListener(new ActionListener() {
+
+			public void actionPerformed(ActionEvent e) {
+				System.exit(0);
+			}
+		});
+
+		this.serverStopItem.addActionListener(this);
+		this.serverSettingsItem.addActionListener(this);
+
+		this.serverMenu.add(this.serverStartItem);
+		this.serverMenu.add(this.serverStopItem);
+		this.serverMenu.add(this.serverSettingsItem);
+		this.serverMenu.add(this.serverExitItem);
+
+		this.mainMenuBar.add(this.serverMenu);
+		setJMenuBar(this.mainMenuBar);
+
+		add(this.logBox);
+
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource() instanceof JMenuItem) {
+			if (((JMenuItem) e.getSource()).getText().equalsIgnoreCase(
+					"settings")) {
+				(new DialogFrame(serverInfo, this)).setVisible(true);
+			} else if (((JMenuItem) e.getSource()).getText().equalsIgnoreCase(
+					"stop")) {
+				this.getExecutorService().shutdownNow();
+			}
+		}
+
+	}
+
+	public ChatServerSocket getServerChatSocket() {
+		return serverChatSocket;
+	}
+
+	public void setServerChatSocket(ChatServerSocket serverChatSocket) {
+		this.serverChatSocket = serverChatSocket;
+	}
+
+	public ServerSocket getServerSocket() {
+		return serverSocket;
+	}
+
+	public void setServerSocket(ServerSocket serverSocket) {
+		this.serverSocket = serverSocket;
+	}
+
+	public ExecutorService getExecutorService() {
+		return executorService;
+	}
+
+	public void setExecutorService(ExecutorService executorService) {
+		this.executorService = executorService;
+	}
+
+	public JTextArea getLogBox() {
+		return logBox;
+	}
+
+	public void setLogBox(JTextArea logBox) {
+		this.logBox = logBox;
+	}
+
+	public boolean isServerStarted() {
+		return serverStarted;
+	}
+
+	public void setServerStarted(boolean serverStarted) {
+		this.serverStarted = serverStarted;
+	}
+
+}

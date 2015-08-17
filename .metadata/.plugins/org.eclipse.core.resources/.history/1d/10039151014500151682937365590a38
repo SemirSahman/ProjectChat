@@ -1,0 +1,14 @@
+package ba.bitcamp.project1.server.servergui.frames;
+
+import javax.swing.JFrame;
+
+public class ServerMainFrame extends JFrame {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+	
+
+}

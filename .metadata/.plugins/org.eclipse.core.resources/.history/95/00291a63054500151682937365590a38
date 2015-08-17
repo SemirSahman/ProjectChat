@@ -1,0 +1,10 @@
+package ba.bitcamp.project1.server.servergui.frames;
+
+public class DialogFrame {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
