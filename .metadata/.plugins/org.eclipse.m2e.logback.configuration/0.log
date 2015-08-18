@@ -1107,3 +1107,38 @@
 2015-08-18 10:37:31,417 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/main/resources
 2015-08-18 10:37:31,418 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-08-18 10:37:31,418 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/test/resources
+2015-08-18 10:47:54,543 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:47:54,544 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/main/resources
+2015-08-18 10:47:54,546 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:47:54,546 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/test/resources
+2015-08-18 10:48:20,309 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:48:20,309 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/main/resources
+2015-08-18 10:48:20,311 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:48:20,311 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/test/resources
+2015-08-18 10:50:59,814 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-18 10:50:59,941 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:client:0.0.1-SNAPSHOT @ /Users/semir.sahman/Desktop/ProjectChat/client/pom.xml.
+2015-08-18 10:51:00,033 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/main/java
+2015-08-18 10:51:00,034 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src/test/java
+2015-08-18 10:51:00,114 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-18 10:51:00,319 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:51:00,319 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/client/src/main/resources
+2015-08-18 10:51:00,320 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:51:00,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/client/src/test/resources
+2015-08-18 10:51:06,750 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-18 10:51:06,783 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:common:0.0.1-SNAPSHOT @ /Users/semir.sahman/Desktop/ProjectChat/common/pom.xml.
+2015-08-18 10:51:06,842 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2015-08-18 10:51:06,843 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2015-08-18 10:51:06,931 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-18 10:51:07,112 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:51:07,112 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/common/src/main/resources
+2015-08-18 10:51:07,113 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:51:07,113 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/common/src/test/resources
+2015-08-18 10:51:14,166 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-18 10:51:14,220 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ba.bitcamp.project1.chat:server:0.0.1-SNAPSHOT @ /Users/semir.sahman/Desktop/ProjectChat/server/pom.xml.
+2015-08-18 10:51:14,278 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/main/java
+2015-08-18 10:51:14,279 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /server/src/test/java
+2015-08-18 10:51:14,342 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-18 10:51:14,526 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:51:14,526 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/main/resources
+2015-08-18 10:51:14,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-08-18 10:51:14,528 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/semir.sahman/Desktop/ProjectChat/server/src/test/resources

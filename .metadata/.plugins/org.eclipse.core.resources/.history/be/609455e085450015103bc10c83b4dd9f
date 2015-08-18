@@ -14,9 +14,9 @@ public class App {
 		ServerSocket ss = chatSocket.getServerSocket();
 		
 		while(true) {
-			Socket client = ss.accept();		
-			System.out.println("Connection accepted" + client.getInetAddress().getCanonicalHostName() + " from port: " + client.getPort());	
-			chatSocket.handleSocket(client);
+			Socket aaa = ss.accept();		
+			System.out.println("Connection accepted" + aaa.getInetAddress().getCanonicalHostName() + " from port: " + aaa.getPort());	
+			chatSocket.handleSocket(aaa);
 		}
 		
 	}

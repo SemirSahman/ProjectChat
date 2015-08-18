@@ -541,3 +541,12 @@ java.io.IOException: Unable to resolve plug-in "platform:/plugin/org.springframe
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-18 10:31:33.990
 !MESSAGE Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+
+!ENTRY org.eclipse.core.resources 4 567 2015-08-18 10:45:43.848
+!MESSAGE The project description file (.project) for 'servergui' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.core.resources 4 567 2015-08-18 10:46:35.904
+!MESSAGE The project description file (.project) for 'servergui' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.core.resources 4 567 2015-08-18 10:51:30.144
+!MESSAGE The project description file (.project) for 'servergui' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
