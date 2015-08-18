@@ -1,2 +1,2 @@
-# ZaEnvera
-Chat server za envera.
+# Project Chat
+
