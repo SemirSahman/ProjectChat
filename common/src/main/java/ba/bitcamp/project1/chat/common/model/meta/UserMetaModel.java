@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.common.model.meta;
-
+//
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class UserMetaModel {

@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.common.json;
-
+//
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class JSONMapper {

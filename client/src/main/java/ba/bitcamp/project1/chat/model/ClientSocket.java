@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.model;
-
+//
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

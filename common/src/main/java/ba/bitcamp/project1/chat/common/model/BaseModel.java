@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.common.model;
-
+//
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;

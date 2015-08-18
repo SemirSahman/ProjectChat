@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.common.enums;
-
+//
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;
 

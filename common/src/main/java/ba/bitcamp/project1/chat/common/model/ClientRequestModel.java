@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.common.model;
-
+//
 import java.util.UUID;
 
 import com.fasterxml.jackson.annotation.JsonInclude;

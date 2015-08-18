@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.server.socket;
-
+//
 import java.net.Socket;
 
 public class SocketModel {

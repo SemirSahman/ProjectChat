@@ -1,5 +1,5 @@
 package ba.bitcamp.project1.chat.socket;
-
+//
 import java.io.IOException;
 
 import ba.bitcamp.project1.chat.common.data.processing.JSONTransformator;
